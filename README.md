@@ -41,7 +41,7 @@ To gain insights into CycleCraft's sales performance, identify key trends and pa
 * **Seasonal Sales Trends:** [Insert relevant insight based on your analysis]
 * **Customer Segmentation:** [Insert relevant insight based on your analysis]
 
-**[Chart.png]**
+![Alt text](Chart.png)
 
 
 
